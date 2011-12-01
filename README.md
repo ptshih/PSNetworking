@@ -2,7 +2,8 @@
 
 PSNetworking
 ---
-Once upon a time I wanted to build a networking framework... Then I discovered ASIHTTPRequest and AFNetworking :)
+* Once upon a time I wanted to build a networking framework... Then I discovered ASIHTTPRequest and AFNetworking :)
+* I'm leaving this project here just for reference in case it comes in handy for myself or others.
 
 LICENSE
 ---
